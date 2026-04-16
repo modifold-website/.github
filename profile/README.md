@@ -6,11 +6,6 @@ Modifold is an open-source platform for **Hytale mods**: upload, discover, downl
 
 We build Modifold as a fan-driven project with a focus on creators, moderation quality, and long-term reliability.
 
-## Repositories
-
-- `pegasus` — frontend
-- `cronus` — backend API
-
 ## Development Flow
 
 - `develop` — staging branch
